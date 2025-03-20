@@ -36,6 +36,9 @@ PACKAGES="$PACKAGES luci-i18n-passwall-zh-cn"
 PACKAGES="$PACKAGES luci-app-openclash"
 PACKAGES="$PACKAGES luci-i18n-homeproxy-zh-cn"
 PACKAGES="$PACKAGES openssh-sftp-server"
+PACKAGES="$PACKAGES luci-app-store</span> iStore(仅作 系统->软件包 的补充)
+PACKAGES="$PACKAGES luci-app-partexp</span>分区扩容
+PACKAGES="$PACKAGES luci-app-oaf
 # 增加几个必备组件 方便用户安装iStore
 PACKAGES="$PACKAGES fdisk"
 PACKAGES="$PACKAGES script-utils"
